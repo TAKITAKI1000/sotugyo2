@@ -1,0 +1,32 @@
+.header-title{
+  font-size:70px;
+  margin:0 auto;
+  text-align:center;
+}
+.header{
+  height:110px;
+  background-color:#26d0c9;
+}
+.main h2{
+  font-size:60px
+}
+.copy-container h2{
+	padding-left:70px
+	padding-right:70px
+	margin:0 auto;
+  	text-align:center;
+}
+.contents-item1 img{
+	width:280px;
+	height:240px;
+}
+.contents-item1{
+	float:left;
+	padding-left:115px
+}
+.contact-form{
+	padding-left:70px
+	padding-right:70px
+	margin:0 auto;
+  	text-align:center;
+}
