@@ -1,118 +1,37 @@
-body {
-  font-family: "Avenir Next", "Hiragino Kaku Gothic ProN W3", sans-serif;
-}
-
-li {
-  list-style: none;
+.header-title{
+  font-size:70px;
+  margin:0 auto;
+  text-align:center;
 }
 .header{
-  height:90px;
+  height:110px;
   background-color:#26d0c9;
-  
 }
-.header-logo{
-  font-size:36px;
-  color:#fff;
-  padding:20px 40px;
-  float:left;
-}
-.header-list li{
-  float:left;
-  padding:33px 20px;
-  color:#fff;
-}
-.copy-container h1{
-  font-size:140px;
-  padding-top:100px;
-  padding-right:80px;
-  padding-left:80px;
-}
-.copy-container span{
-  color:#ff4a4a;
+.main h2{
+  font-size:60px
 }
 .copy-container h2{
-  font-size:60px;
-  padding-right:80px;
-  padding-left:80px;
+	padding-left:10px
+	padding-right:10px
+	margin:0 auto;
+  	text-align:center;
 }
-.contents{
-  padding:100px 80px;
-  
+.contents-item1 img{
+	width:610px;
+	height:530px;
 }
-.section-title h3{
-  font-size:28px;
+.contents-item1 P{
+	padding-bottom:-50px;
 }
-.section-title{
-  border-bottom:2px solid #dee7ec;
-  padding-bottom:15px;
+.contents1 h3{
+	font-size:30px;
 }
-.contents-item{
-  float:left;
-  padding-top:50px;
-  padding-right:40px;
+.contents1 p{
+	font-size:18px;
 }
-.contents-item p{
-  font-size:24px;
-  padding-top:30px;
+.contents1{
+	padding-left:270px;
 }
-.contents{
-  height:500px;
-}
-.contact-form{
-  padding-left:80px;
-  padding-right:80px;
-  padding-bottom:150px;
-}
-.section-title2-1 h3{
-  font-size:28px;
-}
-.section-title2-1{
-  border-bottom:2px solid #dee7ec;
-  padding-bottom:20px;
-}
-.contact-submit-1{
-  width:380px;
-  height:60px;
-  border:1px solid #dee7ec;
-  
-}
-.section-title2-2 textarea{
-  width:380px;
-  height:80px;
-  border:1px solid #dee7ec;
-  
-}
-.section-title2-2 p{
-  padding-bottom:15px;
-  padding-top:30px;
-}
-.contact-submit-2{
-  width:380px;
-  height:70px;
-  border:1px solid #dee7ec;
-  font-size:18px;
-  background-color:#dee7ec;
-  color:#889eab;
-  
-}
-.footer{
-  height:210px;
-  background-color: #2f5167;
-}
-.footer-logo{
-  font-size:32px;
-  color:#fff;
-  padding:40px 40px;
-  float:left;
-}
-.footer-list{
-  float:right;
-  padding:40px;
-  
-}
-
-.footer-list li{
-  color:#fff;
-  padding-bottom:20px
-  
+.contact-form h2{
+	padding-top:100px;
 }
