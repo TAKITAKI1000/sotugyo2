@@ -20,9 +20,6 @@
 	width:600px;
 	height:500px;
 }
-.contents-item1 P{
-	padding-bottom:-50px;
-}
 .contents1 h3{
 	font-size:30px;
 }
@@ -30,9 +27,13 @@
 	font-size:18px;
 }
 .contents1{
-	padding-left:200px;
+	padding-left:190px;
 	padding-right:180px
 }
 .contact-form h2{
 	padding-top:100px;
+}
+.contents-item2 img{
+	width:600px;
+	height:500px;
 }
