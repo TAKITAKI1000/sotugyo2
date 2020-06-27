@@ -7,8 +7,8 @@
   height:110px;
   background-color:#26d0c9;
 }
-.main h2{
-  font-size:60px
+.copy-container h1{
+	text-align:center;
 }
 .copy-container h2{
 	padding-left:10px
@@ -34,6 +34,15 @@
 	padding-top:100px;
 }
 .contents-item2 img{
-	width:600px;
-	height:500px;
+	width:390px;
+	height:360px;
 }
+.contents-item3 img{
+	width:390px;
+	height:360px;
+}
+
+
+
+
+
