@@ -17,8 +17,8 @@
   	text-align:center;
 }
 .contents-item1 img{
-	width:600px;
-	height:500px;
+	width:400px;
+	height:370px;
 }
 .contents1 h3{
 	font-size:30px;
@@ -41,8 +41,17 @@
 	width:390px;
 	height:360px;
 }
-
-
-
+.contents-item5 img{
+	width:390px;
+	height:280px;
+}
+.contents-item6 img{
+	width:400px;
+	height:350px;
+}
+.contents-item7 img{
+	width:400px;
+	height:350px;
+}
 
 
